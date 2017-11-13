@@ -1,3 +1,7 @@
+import time 
+
+
+
 ### MAD LIBS ###
 ### Source: http://www.woojr.com/wp-content/uploads/2010/05/funny-mad-libs.gif
 ### Ask questions here ###
@@ -56,6 +60,10 @@ print ("Next you have to bake it in a very hot " + noun3 + ".")
 print ("When it is done, cut it into " + number1 +" "+ shape1 + ".")
 print ("Some kids like " + food1 + " pizza the best, but my favorite is the " + food2 + " pizza.")
 print ("If I could, I would eat pizza " + number2 + " times a day!")
+
+
+
+time.sleep(200) 
 
 
 
